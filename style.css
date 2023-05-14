@@ -1,0 +1,32 @@
+.container {
+    margin-top: 20px;
+    width: 100%px;
+    }
+    .container .mb-5{
+        text-align: center;
+        border-radius: 40px;
+    }
+    .container table{
+        border-radius: 50px;
+    }
+  
+    table{
+     text-align: center;
+      background-color: white;
+      border: 1px solid black;
+    }
+  
+    a{
+      background-color: rgb(204, 194, 194);
+     color:black;
+    }
+  #next, #prev{
+    background-color: white;
+  }
+  
+    #title {
+      text-align: center;
+  }
+  p{
+    text-align: center;
+  }
